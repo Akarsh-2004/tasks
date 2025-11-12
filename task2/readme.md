@@ -12,8 +12,7 @@ This task demonstrates a fundamental understanding of building and improving a b
 ## Project Structure
 
 ```
-├── archive/
-│   └── Iris.csv              # Original dataset in CSV format
+
 ├── model.ipynb               # Jupyter Notebook containing full ML workflow
 ├── python_executable.py      # Python script version of notebook
 └── README.md                 # This file
