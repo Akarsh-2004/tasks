@@ -1,0 +1,8 @@
+streamlit==1.30.0
+python-dotenv==1.0.1
+langchain==0.2.22
+langchain-huggingface==0.0.23
+langchain-chroma==0.0.33
+chromadb==0.4.5
+pypdf==3.14.0
+tiktoken==0.4.0
